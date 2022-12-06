@@ -1,2 +1,2 @@
-# Js.kar-lama-ve-saat
+# Js.karsılama-ve-saat
 Kodluyoruz Js.Karşılama-ve-saat-ödevi
